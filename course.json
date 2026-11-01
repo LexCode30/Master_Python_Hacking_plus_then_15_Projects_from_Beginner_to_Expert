@@ -1,0 +1,842 @@
+{
+  "name": "Master Python Hacking plus then 15 Projects from Beginner to Expert",
+  "slug": "Master_Python_Hacking_plus_then_15_Projects_from_Beginner_to_Expert",
+  "url": "https://LexCode30.github.io/Master_Python_Hacking_plus_then_15_Projects_from_Beginner_to_Expert/",
+  "category": "programming",
+  "generator": "7.0",
+  "chapters": [
+    {
+      "number": 1,
+      "title": "Introduction",
+      "page": "s1.html",
+      "videos": [
+        {
+          "number": 1,
+          "title": "Introduction",
+          "id": "1-3fB9hrIepXyxs2Vzh2Cx3dUq0fhOTXj",
+          "anchor": "v-1-3fB9hrIepXyxs2Vzh2Cx3dUq0fhOTXj",
+          "href": "s1.html#v-1-3fB9hrIepXyxs2Vzh2Cx3dUq0fhOTXj"
+        },
+        {
+          "number": 2,
+          "title": "Before we start",
+          "id": "1-1ymP9dRPz0lH8fj2-70HplJiXvkjYx-",
+          "anchor": "v-1-1ymP9dRPz0lH8fj2-70HplJiXvkjYx-",
+          "href": "s1.html#v-1-1ymP9dRPz0lH8fj2-70HplJiXvkjYx-"
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "title": "Labs Setup",
+      "page": "s2.html",
+      "videos": [
+        {
+          "number": 1,
+          "title": "ISO and VMWARE Installation",
+          "id": "160FnBAHvrzT9XlJBwainni90f4-2VoUh",
+          "anchor": "v-160FnBAHvrzT9XlJBwainni90f4-2VoUh",
+          "href": "s2.html#v-160FnBAHvrzT9XlJBwainni90f4-2VoUh"
+        },
+        {
+          "number": 2,
+          "title": "Kali Linux Setup",
+          "id": "161C7hLoJZ79BWRuKLkO1sEGuwblGcnNT",
+          "anchor": "v-161C7hLoJZ79BWRuKLkO1sEGuwblGcnNT",
+          "href": "s2.html#v-161C7hLoJZ79BWRuKLkO1sEGuwblGcnNT"
+        },
+        {
+          "number": 3,
+          "title": "Windows Setup",
+          "id": "161xpaphA0FNol2zItMfp3_zlnnrwXyLx",
+          "anchor": "v-161xpaphA0FNol2zItMfp3_zlnnrwXyLx",
+          "href": "s2.html#v-161xpaphA0FNol2zItMfp3_zlnnrwXyLx"
+        },
+        {
+          "number": 4,
+          "title": "Python and VSCode Installation for Windows",
+          "id": "165rwbbQbpo4LFnrWtX4k4uSydZ0vO0Ta",
+          "anchor": "v-165rwbbQbpo4LFnrWtX4k4uSydZ0vO0Ta",
+          "href": "s2.html#v-165rwbbQbpo4LFnrWtX4k4uSydZ0vO0Ta"
+        },
+        {
+          "number": 5,
+          "title": "Python and VSCode Installation for Kali Linux",
+          "id": "16A0EjbBH25RD3bGFXTlbffmq0RAX6n3C",
+          "anchor": "v-16A0EjbBH25RD3bGFXTlbffmq0RAX6n3C",
+          "href": "s2.html#v-16A0EjbBH25RD3bGFXTlbffmq0RAX6n3C"
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "title": "Basik Python",
+      "page": "s3.html",
+      "videos": [
+        {
+          "number": 1,
+          "title": "Working with basik functions and variables",
+          "id": "16TwvTDN94HQqh8Zyy89UcjwOs06Ui_kb",
+          "anchor": "v-16TwvTDN94HQqh8Zyy89UcjwOs06Ui_kb",
+          "href": "s3.html#v-16TwvTDN94HQqh8Zyy89UcjwOs06Ui_kb"
+        },
+        {
+          "number": 2,
+          "title": "Lists an Dictionaries in Python",
+          "id": "16XiTdUbo_-evWtyeHpOYu7TmffwvktDc",
+          "anchor": "v-16XiTdUbo_-evWtyeHpOYu7TmffwvktDc",
+          "href": "s3.html#v-16XiTdUbo_-evWtyeHpOYu7TmffwvktDc"
+        },
+        {
+          "number": 3,
+          "title": "Working with if elif else",
+          "id": "16dvgV5k0RFg7ABSh9CRo2Rk10LicvSIR",
+          "anchor": "v-16dvgV5k0RFg7ABSh9CRo2Rk10LicvSIR",
+          "href": "s3.html#v-16dvgV5k0RFg7ABSh9CRo2Rk10LicvSIR"
+        },
+        {
+          "number": 4,
+          "title": "Loops in Python",
+          "id": "170X5yrMHM7KGA4PL2064QA7D6SsJswBb",
+          "anchor": "v-170X5yrMHM7KGA4PL2064QA7D6SsJswBb",
+          "href": "s3.html#v-170X5yrMHM7KGA4PL2064QA7D6SsJswBb"
+        },
+        {
+          "number": 5,
+          "title": "Functions in Python",
+          "id": "172QrJ_LWmkzIFuZDUIwB1REOH5PIsBXP",
+          "anchor": "v-172QrJ_LWmkzIFuZDUIwB1REOH5PIsBXP",
+          "href": "s3.html#v-172QrJ_LWmkzIFuZDUIwB1REOH5PIsBXP"
+        },
+        {
+          "number": 6,
+          "title": "Error handling in Python",
+          "id": "173lfBi56AV2wXJzSUhdqqxU-I_GziFxJ",
+          "anchor": "v-173lfBi56AV2wXJzSUhdqqxU-I_GziFxJ",
+          "href": "s3.html#v-173lfBi56AV2wXJzSUhdqqxU-I_GziFxJ"
+        },
+        {
+          "number": 7,
+          "title": "Threading inPython",
+          "id": "175EHihzxFYwYmAotMnk0E4jiy-Y1fIHB",
+          "anchor": "v-175EHihzxFYwYmAotMnk0E4jiy-Y1fIHB",
+          "href": "s3.html#v-175EHihzxFYwYmAotMnk0E4jiy-Y1fIHB"
+        },
+        {
+          "number": 8,
+          "title": "Working with Files",
+          "id": "17Bo1XjQE1E2KcsM0_NvmgHQHgxC1sEeO",
+          "anchor": "v-17Bo1XjQE1E2KcsM0_NvmgHQHgxC1sEeO",
+          "href": "s3.html#v-17Bo1XjQE1E2KcsM0_NvmgHQHgxC1sEeO"
+        },
+        {
+          "number": 9,
+          "title": "More practice with Threads",
+          "id": "17GOhUIHeVoUy5TrDVxVBtPpLeWAZHuii",
+          "anchor": "v-17GOhUIHeVoUy5TrDVxVBtPpLeWAZHuii",
+          "href": "s3.html#v-17GOhUIHeVoUy5TrDVxVBtPpLeWAZHuii"
+        },
+        {
+          "number": 10,
+          "title": "Progress Bar in Python",
+          "id": "16cWNt4sc5Oa5dJY_bD3X-_qbrT4JZDPD",
+          "anchor": "v-16cWNt4sc5Oa5dJY_bD3X-_qbrT4JZDPD",
+          "href": "s3.html#v-16cWNt4sc5Oa5dJY_bD3X-_qbrT4JZDPD"
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "title": "Enumeration Tools",
+      "page": "s4.html",
+      "videos": [
+        {
+          "number": 1,
+          "title": "What is DNS",
+          "id": "17NWhAEOhOXB2EBEXFelJjQFKWbilvtU4",
+          "anchor": "v-17NWhAEOhOXB2EBEXFelJjQFKWbilvtU4",
+          "href": "s4.html#v-17NWhAEOhOXB2EBEXFelJjQFKWbilvtU4"
+        },
+        {
+          "number": 2,
+          "title": "Creating DNS Records Enumeration Tool",
+          "id": "17OWxfNd_btKQX5VE0lr2C49w20mX0cz-",
+          "anchor": "v-17OWxfNd_btKQX5VE0lr2C49w20mX0cz-",
+          "href": "s4.html#v-17OWxfNd_btKQX5VE0lr2C49w20mX0cz-"
+        },
+        {
+          "number": 3,
+          "title": "Creating Subdomain Enumeration Tool",
+          "id": "17hUDAZw5YKnpXmRpvXNE_i1XjyAsdiKA",
+          "anchor": "v-17hUDAZw5YKnpXmRpvXNE_i1XjyAsdiKA",
+          "href": "s4.html#v-17hUDAZw5YKnpXmRpvXNE_i1XjyAsdiKA"
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "title": "PDF Protection Tool",
+      "page": "s5.html",
+      "videos": [
+        {
+          "number": 1,
+          "title": "First Function for PDF Protector",
+          "id": "18-gznCNsHzz0dwC9FIXXnfUDFChNOzpz",
+          "anchor": "v-18-gznCNsHzz0dwC9FIXXnfUDFChNOzpz",
+          "href": "s5.html#v-18-gznCNsHzz0dwC9FIXXnfUDFChNOzpz"
+        },
+        {
+          "number": 2,
+          "title": "Finishing our PDF Protector",
+          "id": "181mKtI83aVV5sprxNWPJJ5fCXO7QPMGi",
+          "anchor": "v-181mKtI83aVV5sprxNWPJJ5fCXO7QPMGi",
+          "href": "s5.html#v-181mKtI83aVV5sprxNWPJJ5fCXO7QPMGi"
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "title": "PDF Cracker Tool",
+      "page": "s6.html",
+      "videos": [
+        {
+          "number": 1,
+          "title": "Function to generate passwords on the fly",
+          "id": "18QHogh9fXindI6G3GYiRv6SC0G00xiLV",
+          "anchor": "v-18QHogh9fXindI6G3GYiRv6SC0G00xiLV",
+          "href": "s6.html#v-18QHogh9fXindI6G3GYiRv6SC0G00xiLV"
+        },
+        {
+          "number": 2,
+          "title": "Extracting passwords from wordlist",
+          "id": "18QbaQr3-S-OzFUnMP4Gyvoj2NcvI3I2f",
+          "anchor": "v-18QbaQr3-S-OzFUnMP4Gyvoj2NcvI3I2f",
+          "href": "s6.html#v-18QbaQr3-S-OzFUnMP4Gyvoj2NcvI3I2f"
+        },
+        {
+          "number": 3,
+          "title": "Making our program faster",
+          "id": "18TI9qRr-yhBFdrL41DlMaoLE_7T8oWHH",
+          "anchor": "v-18TI9qRr-yhBFdrL41DlMaoLE_7T8oWHH",
+          "href": "s6.html#v-18TI9qRr-yhBFdrL41DlMaoLE_7T8oWHH"
+        },
+        {
+          "number": 4,
+          "title": "Takeing arguments from the user",
+          "id": "18ZVozHq1kOs-p1gvxW5EcbHsZZhlUgXF",
+          "anchor": "v-18ZVozHq1kOs-p1gvxW5EcbHsZZhlUgXF",
+          "href": "s6.html#v-18ZVozHq1kOs-p1gvxW5EcbHsZZhlUgXF"
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "title": "Network Scanner",
+      "page": "s7.html",
+      "videos": [
+        {
+          "number": 1,
+          "title": "What is ARP",
+          "id": "18j-M3z1J6vu1aymwbLlBMIt-KG9YI33S",
+          "anchor": "v-18j-M3z1J6vu1aymwbLlBMIt-KG9YI33S",
+          "href": "s7.html#v-18j-M3z1J6vu1aymwbLlBMIt-KG9YI33S"
+        },
+        {
+          "number": 2,
+          "title": "Creating ARP request",
+          "id": "18qIyYJUYDEJbm-TL1WlmVUrqNhl0talE",
+          "anchor": "v-18qIyYJUYDEJbm-TL1WlmVUrqNhl0talE",
+          "href": "s7.html#v-18qIyYJUYDEJbm-TL1WlmVUrqNhl0talE"
+        },
+        {
+          "number": 3,
+          "title": "Extracting info from the answer",
+          "id": "18p96GpY1Ytk7C3z5lyVbDbnFwNl7KhuJ",
+          "anchor": "v-18p96GpY1Ytk7C3z5lyVbDbnFwNl7KhuJ",
+          "href": "s7.html#v-18p96GpY1Ytk7C3z5lyVbDbnFwNl7KhuJ"
+        },
+        {
+          "number": 4,
+          "title": "Working with Threads for our program",
+          "id": "191lntib8vSEVfDRkl0vJoqGPO7q8Ieo3",
+          "anchor": "v-191lntib8vSEVfDRkl0vJoqGPO7q8Ieo3",
+          "href": "s7.html#v-191lntib8vSEVfDRkl0vJoqGPO7q8Ieo3"
+        }
+      ]
+    },
+    {
+      "number": 8,
+      "title": "Port Scanner",
+      "page": "s8.html",
+      "videos": [
+        {
+          "number": 1,
+          "title": "Creating main function for our program",
+          "id": "196KVxQpQV9fpK1rYcTQYV5sv-WstyZoU",
+          "anchor": "v-196KVxQpQV9fpK1rYcTQYV5sv-WstyZoU",
+          "href": "s8.html#v-196KVxQpQV9fpK1rYcTQYV5sv-WstyZoU"
+        },
+        {
+          "number": 2,
+          "title": "Extracting Banner from our target",
+          "id": "19IDUDpVS6S-gHbM7f3bRBwhv2tt1a6QX",
+          "anchor": "v-19IDUDpVS6S-gHbM7f3bRBwhv2tt1a6QX",
+          "href": "s8.html#v-19IDUDpVS6S-gHbM7f3bRBwhv2tt1a6QX"
+        },
+        {
+          "number": 3,
+          "title": "Working with Threads",
+          "id": "19OXLQvvFOsQ9M6HGYmhWnhLTYn8mmY0Z",
+          "anchor": "v-19OXLQvvFOsQ9M6HGYmhWnhLTYn8mmY0Z",
+          "href": "s8.html#v-19OXLQvvFOsQ9M6HGYmhWnhLTYn8mmY0Z"
+        },
+        {
+          "number": 4,
+          "title": "Formating our result",
+          "id": "19PP5AKOZ7lQWyKI0yfZqLX6I0Zk5lpu5",
+          "anchor": "v-19PP5AKOZ7lQWyKI0yfZqLX6I0Zk5lpu5",
+          "href": "s8.html#v-19PP5AKOZ7lQWyKI0yfZqLX6I0Zk5lpu5"
+        }
+      ]
+    },
+    {
+      "number": 9,
+      "title": "Password Cracker",
+      "page": "s9.html",
+      "videos": [
+        {
+          "number": 1,
+          "title": "Function to generate passwords on the fly",
+          "id": "19cpBabmbRYlhWygMfL17vEWZP6gJHA4G",
+          "anchor": "v-19cpBabmbRYlhWygMfL17vEWZP6gJHA4G",
+          "href": "s9.html#v-19cpBabmbRYlhWygMfL17vEWZP6gJHA4G"
+        },
+        {
+          "number": 2,
+          "title": "Function to verify hash",
+          "id": "19f9B2gZrWVoV6nQdQsvtCzIXpuxhI6ik",
+          "anchor": "v-19f9B2gZrWVoV6nQdQsvtCzIXpuxhI6ik",
+          "href": "s9.html#v-19f9B2gZrWVoV6nQdQsvtCzIXpuxhI6ik"
+        },
+        {
+          "number": 3,
+          "title": "Working with wordlist",
+          "id": "19khWaDEjhQMsrYsrXwHVRi1tODplvkBD",
+          "anchor": "v-19khWaDEjhQMsrYsrXwHVRi1tODplvkBD",
+          "href": "s9.html#v-19khWaDEjhQMsrYsrXwHVRi1tODplvkBD"
+        },
+        {
+          "number": 4,
+          "title": "Takeing input from the user",
+          "id": "19sIbwjyZH7oX2c0OIehieBAmB9hjRaee",
+          "anchor": "v-19sIbwjyZH7oX2c0OIehieBAmB9hjRaee",
+          "href": "s9.html#v-19sIbwjyZH7oX2c0OIehieBAmB9hjRaee"
+        }
+      ]
+    },
+    {
+      "number": 10,
+      "title": "SSH cracker",
+      "page": "s10.html",
+      "videos": [
+        {
+          "number": 1,
+          "title": "What is SSH",
+          "id": "1-5B6wTK9aWYjTcOFehD2ExsR2ZwQEaPp",
+          "anchor": "v-1-5B6wTK9aWYjTcOFehD2ExsR2ZwQEaPp",
+          "href": "s10.html#v-1-5B6wTK9aWYjTcOFehD2ExsR2ZwQEaPp"
+        },
+        {
+          "number": 2,
+          "title": "Init SSH connection",
+          "id": "1-BaKxfBFxduH-QkSF8Wa2K5c8Hjwj18r",
+          "anchor": "v-1-BaKxfBFxduH-QkSF8Wa2K5c8Hjwj18r",
+          "href": "s10.html#v-1-BaKxfBFxduH-QkSF8Wa2K5c8Hjwj18r"
+        },
+        {
+          "number": 3,
+          "title": "Error Handling",
+          "id": "1-9e52vtwTsWs3nbZCduA30qxqCkF_iFn",
+          "anchor": "v-1-9e52vtwTsWs3nbZCduA30qxqCkF_iFn",
+          "href": "s10.html#v-1-9e52vtwTsWs3nbZCduA30qxqCkF_iFn"
+        },
+        {
+          "number": 4,
+          "title": "User input",
+          "id": "1-NFXX1fba-dcC5QG5KTTpCC-93VDiMSd",
+          "anchor": "v-1-NFXX1fba-dcC5QG5KTTpCC-93VDiMSd",
+          "href": "s10.html#v-1-NFXX1fba-dcC5QG5KTTpCC-93VDiMSd"
+        },
+        {
+          "number": 5,
+          "title": "Testing our program",
+          "id": "1-QFzgRfm31i-M8JxV7WqZZGXilzlBrAX",
+          "anchor": "v-1-QFzgRfm31i-M8JxV7WqZZGXilzlBrAX",
+          "href": "s10.html#v-1-QFzgRfm31i-M8JxV7WqZZGXilzlBrAX"
+        },
+        {
+          "number": 6,
+          "title": "Sarting our advanced SSH cracker",
+          "id": "1-RAkcMUNHclaSQ3X-T7es41yTjoeuDKT",
+          "anchor": "v-1-RAkcMUNHclaSQ3X-T7es41yTjoeuDKT",
+          "href": "s10.html#v-1-RAkcMUNHclaSQ3X-T7es41yTjoeuDKT"
+        },
+        {
+          "number": 7,
+          "title": "Functions to generate passwords on the fly & extract passwords from the wordlist",
+          "id": "1-VfbkRzgW8b_iyxhky54qcB2L2p2L5x6",
+          "anchor": "v-1-VfbkRzgW8b_iyxhky54qcB2L2p2L5x6",
+          "href": "s10.html#v-1-VfbkRzgW8b_iyxhky54qcB2L2p2L5x6"
+        },
+        {
+          "number": 8,
+          "title": "Working with user input",
+          "id": "1-aiuABbxJ5YZ_VcvWIUUlXvVaxmVIsUJ",
+          "anchor": "v-1-aiuABbxJ5YZ_VcvWIUUlXvVaxmVIsUJ",
+          "href": "s10.html#v-1-aiuABbxJ5YZ_VcvWIUUlXvVaxmVIsUJ"
+        },
+        {
+          "number": 9,
+          "title": "Testing our program",
+          "id": "1-cN2hPdI1zDnjEGUE2hnegR06ePLNmyb",
+          "anchor": "v-1-cN2hPdI1zDnjEGUE2hnegR06ePLNmyb",
+          "href": "s10.html#v-1-cN2hPdI1zDnjEGUE2hnegR06ePLNmyb"
+        },
+        {
+          "number": 10,
+          "title": "Fixing errors",
+          "id": "1-8xNZl68zkczzCNYrKi0tyfZotDOwp7M",
+          "anchor": "v-1-8xNZl68zkczzCNYrKi0tyfZotDOwp7M",
+          "href": "s10.html#v-1-8xNZl68zkczzCNYrKi0tyfZotDOwp7M"
+        }
+      ]
+    },
+    {
+      "number": 11,
+      "title": "FTP cracker",
+      "page": "s11.html",
+      "videos": [
+        {
+          "number": 1,
+          "title": "What is FTP",
+          "id": "1-ihNdtfefPqSlJhSuA0MIDWWZU6P_Jz7",
+          "anchor": "v-1-ihNdtfefPqSlJhSuA0MIDWWZU6P_Jz7",
+          "href": "s11.html#v-1-ihNdtfefPqSlJhSuA0MIDWWZU6P_Jz7"
+        },
+        {
+          "number": 2,
+          "title": "Main function",
+          "id": "1-f257tNoEfXbE2T5dCPFRGVRG-8HZNxX",
+          "anchor": "v-1-f257tNoEfXbE2T5dCPFRGVRG-8HZNxX",
+          "href": "s11.html#v-1-f257tNoEfXbE2T5dCPFRGVRG-8HZNxX"
+        },
+        {
+          "number": 3,
+          "title": "Working with wordlist",
+          "id": "1-jI_P0ijVfmrg1JTqULsyAXLA0SBoTgi",
+          "anchor": "v-1-jI_P0ijVfmrg1JTqULsyAXLA0SBoTgi",
+          "href": "s11.html#v-1-jI_P0ijVfmrg1JTqULsyAXLA0SBoTgi"
+        },
+        {
+          "number": 4,
+          "title": "Testing our basik program",
+          "id": "1-kLut6r-4xnRX13_IqYdjWY0MqUZkhRH",
+          "anchor": "v-1-kLut6r-4xnRX13_IqYdjWY0MqUZkhRH",
+          "href": "s11.html#v-1-kLut6r-4xnRX13_IqYdjWY0MqUZkhRH"
+        },
+        {
+          "number": 5,
+          "title": "Starting advanced program",
+          "id": "1-kYd-DXr9Wc4amKJMn8mjunGoS0Yn8BC",
+          "anchor": "v-1-kYd-DXr9Wc4amKJMn8mjunGoS0Yn8BC",
+          "href": "s11.html#v-1-kYd-DXr9Wc4amKJMn8mjunGoS0Yn8BC"
+        },
+        {
+          "number": 6,
+          "title": "Working with user input",
+          "id": "1-n9eWUlbuAOn5GLG7mPX0unBCQ8WYFc8",
+          "anchor": "v-1-n9eWUlbuAOn5GLG7mPX0unBCQ8WYFc8",
+          "href": "s11.html#v-1-n9eWUlbuAOn5GLG7mPX0unBCQ8WYFc8"
+        },
+        {
+          "number": 7,
+          "title": "Parse arguments",
+          "id": "1-pSoYaX4X4rCm5Me2Wr_ZMnfDVNu2dkH",
+          "anchor": "v-1-pSoYaX4X4rCm5Me2Wr_ZMnfDVNu2dkH",
+          "href": "s11.html#v-1-pSoYaX4X4rCm5Me2Wr_ZMnfDVNu2dkH"
+        },
+        {
+          "number": 8,
+          "title": "Testing our program",
+          "id": "1-vbcacgKmq2DVDLAvu9mrHm58QIVrbeM",
+          "anchor": "v-1-vbcacgKmq2DVDLAvu9mrHm58QIVrbeM",
+          "href": "s11.html#v-1-vbcacgKmq2DVDLAvu9mrHm58QIVrbeM"
+        }
+      ]
+    },
+    {
+      "number": 12,
+      "title": "Keylogger creation",
+      "page": "s12.html",
+      "videos": [
+        {
+          "number": 1,
+          "title": "What is keylogger",
+          "id": "10qwVqq9OeZtIO_TGX83JkOYxZ3SVjCOY",
+          "anchor": "v-10qwVqq9OeZtIO_TGX83JkOYxZ3SVjCOY",
+          "href": "s12.html#v-10qwVqq9OeZtIO_TGX83JkOYxZ3SVjCOY"
+        },
+        {
+          "number": 2,
+          "title": "Creation of basik keylogger",
+          "id": "10pMZUdwsd53_f11FE9y5A4E16Cwj6Hl9",
+          "anchor": "v-10pMZUdwsd53_f11FE9y5A4E16Cwj6Hl9",
+          "href": "s12.html#v-10pMZUdwsd53_f11FE9y5A4E16Cwj6Hl9"
+        },
+        {
+          "number": 3,
+          "title": "Creation of more advanced keylogger",
+          "id": "10v-4LztdE2k6OaZJwz71jFlIn0-DBLI7",
+          "anchor": "v-10v-4LztdE2k6OaZJwz71jFlIn0-DBLI7",
+          "href": "s12.html#v-10v-4LztdE2k6OaZJwz71jFlIn0-DBLI7"
+        }
+      ]
+    },
+    {
+      "number": 13,
+      "title": "Reverse Shell",
+      "page": "s13.html",
+      "videos": [
+        {
+          "number": 1,
+          "title": "What is Reverse Shell",
+          "id": "10hY2i-Br6Mr8KibDAUAnIFD17AQtEeiD",
+          "anchor": "v-10hY2i-Br6Mr8KibDAUAnIFD17AQtEeiD",
+          "href": "s13.html#v-10hY2i-Br6Mr8KibDAUAnIFD17AQtEeiD"
+        },
+        {
+          "number": 2,
+          "title": "Creating custom Listener",
+          "id": "11BphmjrAXR4Yi7yRvVR9wvC1flb2hZd1",
+          "anchor": "v-11BphmjrAXR4Yi7yRvVR9wvC1flb2hZd1",
+          "href": "s13.html#v-11BphmjrAXR4Yi7yRvVR9wvC1flb2hZd1"
+        },
+        {
+          "number": 3,
+          "title": "Creating client side code",
+          "id": "11HEpfFHjXe7M7sE2CsepRbwIo2bayphz",
+          "anchor": "v-11HEpfFHjXe7M7sE2CsepRbwIo2bayphz",
+          "href": "s13.html#v-11HEpfFHjXe7M7sE2CsepRbwIo2bayphz"
+        },
+        {
+          "number": 4,
+          "title": "Functions to send and recieve data",
+          "id": "11KJVqLgSdm1avLS4FDUNyufqds4SzNJx",
+          "anchor": "v-11KJVqLgSdm1avLS4FDUNyufqds4SzNJx",
+          "href": "s13.html#v-11KJVqLgSdm1avLS4FDUNyufqds4SzNJx"
+        },
+        {
+          "number": 5,
+          "title": "cd upload and download commands",
+          "id": "11PFpfQZRuY1CE5bWFwS7p3Uo9lvJj2cC",
+          "anchor": "v-11PFpfQZRuY1CE5bWFwS7p3Uo9lvJj2cC",
+          "href": "s13.html#v-11PFpfQZRuY1CE5bWFwS7p3Uo9lvJj2cC"
+        }
+      ]
+    },
+    {
+      "number": 14,
+      "title": "Information Stealer",
+      "page": "s14.html",
+      "videos": [
+        {
+          "number": 1,
+          "title": "What is Info Stealer",
+          "id": "11jp7ZQmXqhtNMU1nir3gABAzXL4Tnwo5",
+          "anchor": "v-11jp7ZQmXqhtNMU1nir3gABAzXL4Tnwo5",
+          "href": "s14.html#v-11jp7ZQmXqhtNMU1nir3gABAzXL4Tnwo5"
+        },
+        {
+          "number": 2,
+          "title": "Extracting decryption key",
+          "id": "11fypQW1AvvM3VYGOiXMKxmQqCYAiDMuQ",
+          "anchor": "v-11fypQW1AvvM3VYGOiXMKxmQqCYAiDMuQ",
+          "href": "s14.html#v-11fypQW1AvvM3VYGOiXMKxmQqCYAiDMuQ"
+        },
+        {
+          "number": 3,
+          "title": "Extracting Credentials",
+          "id": "11rwPukz3FT3gFvMuJh_CrncSsQjm9PpK",
+          "anchor": "v-11rwPukz3FT3gFvMuJh_CrncSsQjm9PpK",
+          "href": "s14.html#v-11rwPukz3FT3gFvMuJh_CrncSsQjm9PpK"
+        },
+        {
+          "number": 4,
+          "title": "Decrypting Extracted Passwords",
+          "id": "122_IafgGnpQCJh0AIdTADN8YWlLIaLVn",
+          "anchor": "v-122_IafgGnpQCJh0AIdTADN8YWlLIaLVn",
+          "href": "s14.html#v-122_IafgGnpQCJh0AIdTADN8YWlLIaLVn"
+        },
+        {
+          "number": 5,
+          "title": "Extracting data from clipboard",
+          "id": "127e5fBm7e7qO1jZyc3dUthsJr2rtYjG8",
+          "anchor": "v-127e5fBm7e7qO1jZyc3dUthsJr2rtYjG8",
+          "href": "s14.html#v-127e5fBm7e7qO1jZyc3dUthsJr2rtYjG8"
+        },
+        {
+          "number": 6,
+          "title": "Extracting System Info",
+          "id": "129W8x2ODxGZVvKlttcNMI41YdRPiuCk3",
+          "anchor": "v-129W8x2ODxGZVvKlttcNMI41YdRPiuCk3",
+          "href": "s14.html#v-129W8x2ODxGZVvKlttcNMI41YdRPiuCk3"
+        },
+        {
+          "number": 7,
+          "title": "Testing our program",
+          "id": "12CNvLpSoXQWJTCmeAX3SffhXTPyS6Mib",
+          "anchor": "v-12CNvLpSoXQWJTCmeAX3SffhXTPyS6Mib",
+          "href": "s14.html#v-12CNvLpSoXQWJTCmeAX3SffhXTPyS6Mib"
+        }
+      ]
+    },
+    {
+      "number": 15,
+      "title": "SSH Botnet",
+      "page": "s15.html",
+      "videos": [
+        {
+          "number": 1,
+          "title": "What is Botnet",
+          "id": "12WhpNYPmf-xMcPLNlyVOBEwHwZDJ43ZB",
+          "anchor": "v-12WhpNYPmf-xMcPLNlyVOBEwHwZDJ43ZB",
+          "href": "s15.html#v-12WhpNYPmf-xMcPLNlyVOBEwHwZDJ43ZB"
+        },
+        {
+          "number": 2,
+          "title": "First function for SSH Botnet",
+          "id": "12ZG3OH5jMJOQrkCR7i6LJlQ7CyKmITcF",
+          "anchor": "v-12ZG3OH5jMJOQrkCR7i6LJlQ7CyKmITcF",
+          "href": "s15.html#v-12ZG3OH5jMJOQrkCR7i6LJlQ7CyKmITcF"
+        },
+        {
+          "number": 3,
+          "title": "Init Connection",
+          "id": "12bicTSfb0JZB8ebJtVN7LyUgtEu8BTsb",
+          "anchor": "v-12bicTSfb0JZB8ebJtVN7LyUgtEu8BTsb",
+          "href": "s15.html#v-12bicTSfb0JZB8ebJtVN7LyUgtEu8BTsb"
+        },
+        {
+          "number": 4,
+          "title": "Testing and Fixing problems",
+          "id": "12fKMY3bAk3wqPVOoS_AwNpGKauScAGin",
+          "anchor": "v-12fKMY3bAk3wqPVOoS_AwNpGKauScAGin",
+          "href": "s15.html#v-12fKMY3bAk3wqPVOoS_AwNpGKauScAGin"
+        },
+        {
+          "number": 5,
+          "title": "Commands execution on our bots",
+          "id": "12fa1sa9x_wVPEXh7U0LdiQqTUUJyANYv",
+          "anchor": "v-12fa1sa9x_wVPEXh7U0LdiQqTUUJyANYv",
+          "href": "s15.html#v-12fa1sa9x_wVPEXh7U0LdiQqTUUJyANYv"
+        },
+        {
+          "number": 6,
+          "title": "Adding Function for DDOS",
+          "id": "12hinnmptFEViAmKUwxhtM5zz0TLVA6r1",
+          "anchor": "v-12hinnmptFEViAmKUwxhtM5zz0TLVA6r1",
+          "href": "s15.html#v-12hinnmptFEViAmKUwxhtM5zz0TLVA6r1"
+        },
+        {
+          "number": 7,
+          "title": "Testing and problems solving",
+          "id": "12pDgt5_p7vgdVNNFASOeAgYcwBoee5xF",
+          "anchor": "v-12pDgt5_p7vgdVNNFASOeAgYcwBoee5xF",
+          "href": "s15.html#v-12pDgt5_p7vgdVNNFASOeAgYcwBoee5xF"
+        }
+      ]
+    },
+    {
+      "number": 16,
+      "title": "Internet Worm",
+      "page": "s16.html",
+      "videos": [
+        {
+          "number": 1,
+          "title": "What is Internet Worm",
+          "id": "13ClZpXEiQHkiG101s0qTyF-qeWiGzSlI",
+          "anchor": "v-13ClZpXEiQHkiG101s0qTyF-qeWiGzSlI",
+          "href": "s16.html#v-13ClZpXEiQHkiG101s0qTyF-qeWiGzSlI"
+        },
+        {
+          "number": 2,
+          "title": "SSH exploit explanation",
+          "id": "143v4xvil_zIQVSH6uNp9BsLuHFw8mhHf",
+          "anchor": "v-143v4xvil_zIQVSH6uNp9BsLuHFw8mhHf",
+          "href": "s16.html#v-143v4xvil_zIQVSH6uNp9BsLuHFw8mhHf"
+        },
+        {
+          "number": 3,
+          "title": "NFS exploit explanation",
+          "id": "14F1iWkNZX-jZsvrezPYrcV3il_Cu9Gk6",
+          "anchor": "v-14F1iWkNZX-jZsvrezPYrcV3il_Cu9Gk6",
+          "href": "s16.html#v-14F1iWkNZX-jZsvrezPYrcV3il_Cu9Gk6"
+        },
+        {
+          "number": 4,
+          "title": "PsExec exploit explanation",
+          "id": "14DrwsvuZelcXObmMH1sUCyys7vgFs-H5",
+          "anchor": "v-14DrwsvuZelcXObmMH1sUCyys7vgFs-H5",
+          "href": "s16.html#v-14DrwsvuZelcXObmMH1sUCyys7vgFs-H5"
+        },
+        {
+          "number": 5,
+          "title": "WMI exploit explanation",
+          "id": "14HwzpJUgy-p_CRa15NXlI6oTj6rbuG3S",
+          "anchor": "v-14HwzpJUgy-p_CRa15NXlI6oTj6rbuG3S",
+          "href": "s16.html#v-14HwzpJUgy-p_CRa15NXlI6oTj6rbuG3S"
+        },
+        {
+          "number": 6,
+          "title": "RDP exploit explanation",
+          "id": "14KUYkrGUxPyhE41tsabIAWVtnsGiiToM",
+          "anchor": "v-14KUYkrGUxPyhE41tsabIAWVtnsGiiToM",
+          "href": "s16.html#v-14KUYkrGUxPyhE41tsabIAWVtnsGiiToM"
+        },
+        {
+          "number": 7,
+          "title": "Payload creation",
+          "id": "14XewQqzLkxRyFsicVwMoOq1NGTbGaejd",
+          "anchor": "v-14XewQqzLkxRyFsicVwMoOq1NGTbGaejd",
+          "href": "s16.html#v-14XewQqzLkxRyFsicVwMoOq1NGTbGaejd"
+        },
+        {
+          "number": 8,
+          "title": "Function to automatically scan network",
+          "id": "14adrhBDn9q5U4lG6kCNUyoSPNJdVvlG4",
+          "anchor": "v-14adrhBDn9q5U4lG6kCNUyoSPNJdVvlG4",
+          "href": "s16.html#v-14adrhBDn9q5U4lG6kCNUyoSPNJdVvlG4"
+        },
+        {
+          "number": 9,
+          "title": "Creation of SSH exploit",
+          "id": "14dlQfWwoEkc7AX9dqs-sshRAw08qYA6W",
+          "anchor": "v-14dlQfWwoEkc7AX9dqs-sshRAw08qYA6W",
+          "href": "s16.html#v-14dlQfWwoEkc7AX9dqs-sshRAw08qYA6W"
+        },
+        {
+          "number": 10,
+          "title": "Testing and Fixing problems",
+          "id": "13KP0RhPhhmWWu5BFsKE4K85k9RAdaMSp",
+          "anchor": "v-13KP0RhPhhmWWu5BFsKE4K85k9RAdaMSp",
+          "href": "s16.html#v-13KP0RhPhhmWWu5BFsKE4K85k9RAdaMSp"
+        },
+        {
+          "number": 11,
+          "title": "Creating NFS PsExec WMI exploits",
+          "id": "13WApbDlwOirJxU4Ttsduef9HYAYHf-a9",
+          "anchor": "v-13WApbDlwOirJxU4Ttsduef9HYAYHf-a9",
+          "href": "s16.html#v-13WApbDlwOirJxU4Ttsduef9HYAYHf-a9"
+        },
+        {
+          "number": 12,
+          "title": "Testing and Fixing network problems",
+          "id": "13chAZ5JO5g5JcRMV_kx5gY-bGX-_83QT",
+          "anchor": "v-13chAZ5JO5g5JcRMV_kx5gY-bGX-_83QT",
+          "href": "s16.html#v-13chAZ5JO5g5JcRMV_kx5gY-bGX-_83QT"
+        },
+        {
+          "number": 13,
+          "title": "Creating RDP exploit",
+          "id": "13espUudOumRmQvbJ7IzcBA8mJjKjkKx3",
+          "anchor": "v-13espUudOumRmQvbJ7IzcBA8mJjKjkKx3",
+          "href": "s16.html#v-13espUudOumRmQvbJ7IzcBA8mJjKjkKx3"
+        }
+      ]
+    },
+    {
+      "number": 17,
+      "title": "Traditional Botnet",
+      "page": "s17.html",
+      "videos": [
+        {
+          "number": 1,
+          "title": "Explanation of basik botnet",
+          "id": "14eTjz9ruCoqhIQT91ky7q6ERCHgCaWul",
+          "anchor": "v-14eTjz9ruCoqhIQT91ky7q6ERCHgCaWul",
+          "href": "s17.html#v-14eTjz9ruCoqhIQT91ky7q6ERCHgCaWul"
+        },
+        {
+          "number": 2,
+          "title": "Starting our basik botnet",
+          "id": "15FUv0AU0EMOVesaYhQa99d_Awlb4wU6d",
+          "anchor": "v-15FUv0AU0EMOVesaYhQa99d_Awlb4wU6d",
+          "href": "s17.html#v-15FUv0AU0EMOVesaYhQa99d_Awlb4wU6d"
+        },
+        {
+          "number": 3,
+          "title": "Creating Center for our botnet",
+          "id": "15FXI9suSr3sjltsy-e72mUv0ftX4b_Ur",
+          "anchor": "v-15FXI9suSr3sjltsy-e72mUv0ftX4b_Ur",
+          "href": "s17.html#v-15FXI9suSr3sjltsy-e72mUv0ftX4b_Ur"
+        },
+        {
+          "number": 4,
+          "title": "Finishing our basik botnet",
+          "id": "15N7czXp1-yOWa-2vjE5IW_7cQYVV9GE6",
+          "anchor": "v-15N7czXp1-yOWa-2vjE5IW_7cQYVV9GE6",
+          "href": "s17.html#v-15N7czXp1-yOWa-2vjE5IW_7cQYVV9GE6"
+        },
+        {
+          "number": 5,
+          "title": "explanation of advanced botnet",
+          "id": "15TTk_8pz0OulDvtN6D6f1YBMVlF2o31n",
+          "anchor": "v-15TTk_8pz0OulDvtN6D6f1YBMVlF2o31n",
+          "href": "s17.html#v-15TTk_8pz0OulDvtN6D6f1YBMVlF2o31n"
+        },
+        {
+          "number": 6,
+          "title": "ddos",
+          "id": "15WuXy5SSSPeWnr50jrjFXznof_oVTUjd",
+          "anchor": "v-15WuXy5SSSPeWnr50jrjFXznof_oVTUjd",
+          "href": "s17.html#v-15WuXy5SSSPeWnr50jrjFXznof_oVTUjd"
+        },
+        {
+          "number": 7,
+          "title": "extracting passwords",
+          "id": "15Xk78QxiS-y8nBkOtmh_P41iLDoKPrSc",
+          "anchor": "v-15Xk78QxiS-y8nBkOtmh_P41iLDoKPrSc",
+          "href": "s17.html#v-15Xk78QxiS-y8nBkOtmh_P41iLDoKPrSc"
+        },
+        {
+          "number": 8,
+          "title": "Secure Communication",
+          "id": "15e8lfWsMvN5BcSC8dLR2zFht7HTtLG4b",
+          "anchor": "v-15e8lfWsMvN5BcSC8dLR2zFht7HTtLG4b",
+          "href": "s17.html#v-15e8lfWsMvN5BcSC8dLR2zFht7HTtLG4b"
+        },
+        {
+          "number": 9,
+          "title": "Main function",
+          "id": "15sTxNtAaS1LRYxnO_PuQwJrnO2BDGDVB",
+          "anchor": "v-15sTxNtAaS1LRYxnO_PuQwJrnO2BDGDVB",
+          "href": "s17.html#v-15sTxNtAaS1LRYxnO_PuQwJrnO2BDGDVB"
+        },
+        {
+          "number": 10,
+          "title": "String obfuscation and advanced techniques on client side code",
+          "id": "14rUIyLjQ_alCiM8yEAe-qtcTTgFnlETX",
+          "anchor": "v-14rUIyLjQ_alCiM8yEAe-qtcTTgFnlETX",
+          "href": "s17.html#v-14rUIyLjQ_alCiM8yEAe-qtcTTgFnlETX"
+        },
+        {
+          "number": 11,
+          "title": "Testing our Advanced Botnet",
+          "id": "14vzRjtl7r2rO9W7fSdCL_tdDXq1t_7G5",
+          "anchor": "v-14vzRjtl7r2rO9W7fSdCL_tdDXq1t_7G5",
+          "href": "s17.html#v-14vzRjtl7r2rO9W7fSdCL_tdDXq1t_7G5"
+        }
+      ]
+    }
+  ]
+}

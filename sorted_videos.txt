@@ -1,0 +1,137 @@
+# Master Python Hacking plus then 15 Projects from Beginner to Expert
+
+1. Introduction  [s1.html]
+    001. Introduction  ->  https://drive.google.com/file/d/1-3fB9hrIepXyxs2Vzh2Cx3dUq0fhOTXj/preview
+    002. Before we start  ->  https://drive.google.com/file/d/1-1ymP9dRPz0lH8fj2-70HplJiXvkjYx-/preview
+
+2. Labs Setup  [s2.html]
+    001. ISO and VMWARE Installation  ->  https://drive.google.com/file/d/160FnBAHvrzT9XlJBwainni90f4-2VoUh/preview
+    002. Kali Linux Setup  ->  https://drive.google.com/file/d/161C7hLoJZ79BWRuKLkO1sEGuwblGcnNT/preview
+    003. Windows Setup  ->  https://drive.google.com/file/d/161xpaphA0FNol2zItMfp3_zlnnrwXyLx/preview
+    004. Python and VSCode Installation for Windows  ->  https://drive.google.com/file/d/165rwbbQbpo4LFnrWtX4k4uSydZ0vO0Ta/preview
+    005. Python and VSCode Installation for Kali Linux  ->  https://drive.google.com/file/d/16A0EjbBH25RD3bGFXTlbffmq0RAX6n3C/preview
+
+3. Basik Python  [s3.html]
+    001. Working with basik functions and variables  ->  https://drive.google.com/file/d/16TwvTDN94HQqh8Zyy89UcjwOs06Ui_kb/preview
+    002. Lists an Dictionaries in Python  ->  https://drive.google.com/file/d/16XiTdUbo_-evWtyeHpOYu7TmffwvktDc/preview
+    003. Working with if elif else  ->  https://drive.google.com/file/d/16dvgV5k0RFg7ABSh9CRo2Rk10LicvSIR/preview
+    004. Loops in Python  ->  https://drive.google.com/file/d/170X5yrMHM7KGA4PL2064QA7D6SsJswBb/preview
+    005. Functions in Python  ->  https://drive.google.com/file/d/172QrJ_LWmkzIFuZDUIwB1REOH5PIsBXP/preview
+    006. Error handling in Python  ->  https://drive.google.com/file/d/173lfBi56AV2wXJzSUhdqqxU-I_GziFxJ/preview
+    007. Threading inPython  ->  https://drive.google.com/file/d/175EHihzxFYwYmAotMnk0E4jiy-Y1fIHB/preview
+    008. Working with Files  ->  https://drive.google.com/file/d/17Bo1XjQE1E2KcsM0_NvmgHQHgxC1sEeO/preview
+    009. More practice with Threads  ->  https://drive.google.com/file/d/17GOhUIHeVoUy5TrDVxVBtPpLeWAZHuii/preview
+    010. Progress Bar in Python  ->  https://drive.google.com/file/d/16cWNt4sc5Oa5dJY_bD3X-_qbrT4JZDPD/preview
+
+4. Enumeration Tools  [s4.html]
+    001. What is DNS  ->  https://drive.google.com/file/d/17NWhAEOhOXB2EBEXFelJjQFKWbilvtU4/preview
+    002. Creating DNS Records Enumeration Tool  ->  https://drive.google.com/file/d/17OWxfNd_btKQX5VE0lr2C49w20mX0cz-/preview
+    003. Creating Subdomain Enumeration Tool  ->  https://drive.google.com/file/d/17hUDAZw5YKnpXmRpvXNE_i1XjyAsdiKA/preview
+
+5. PDF Protection Tool  [s5.html]
+    001. First Function for PDF Protector  ->  https://drive.google.com/file/d/18-gznCNsHzz0dwC9FIXXnfUDFChNOzpz/preview
+    002. Finishing our PDF Protector  ->  https://drive.google.com/file/d/181mKtI83aVV5sprxNWPJJ5fCXO7QPMGi/preview
+
+6. PDF Cracker Tool  [s6.html]
+    001. Function to generate passwords on the fly  ->  https://drive.google.com/file/d/18QHogh9fXindI6G3GYiRv6SC0G00xiLV/preview
+    002. Extracting passwords from wordlist  ->  https://drive.google.com/file/d/18QbaQr3-S-OzFUnMP4Gyvoj2NcvI3I2f/preview
+    003. Making our program faster  ->  https://drive.google.com/file/d/18TI9qRr-yhBFdrL41DlMaoLE_7T8oWHH/preview
+    004. Takeing arguments from the user  ->  https://drive.google.com/file/d/18ZVozHq1kOs-p1gvxW5EcbHsZZhlUgXF/preview
+
+7. Network Scanner  [s7.html]
+    001. What is ARP  ->  https://drive.google.com/file/d/18j-M3z1J6vu1aymwbLlBMIt-KG9YI33S/preview
+    002. Creating ARP request  ->  https://drive.google.com/file/d/18qIyYJUYDEJbm-TL1WlmVUrqNhl0talE/preview
+    003. Extracting info from the answer  ->  https://drive.google.com/file/d/18p96GpY1Ytk7C3z5lyVbDbnFwNl7KhuJ/preview
+    004. Working with Threads for our program  ->  https://drive.google.com/file/d/191lntib8vSEVfDRkl0vJoqGPO7q8Ieo3/preview
+
+8. Port Scanner  [s8.html]
+    001. Creating main function for our program  ->  https://drive.google.com/file/d/196KVxQpQV9fpK1rYcTQYV5sv-WstyZoU/preview
+    002. Extracting Banner from our target  ->  https://drive.google.com/file/d/19IDUDpVS6S-gHbM7f3bRBwhv2tt1a6QX/preview
+    003. Working with Threads  ->  https://drive.google.com/file/d/19OXLQvvFOsQ9M6HGYmhWnhLTYn8mmY0Z/preview
+    004. Formating our result  ->  https://drive.google.com/file/d/19PP5AKOZ7lQWyKI0yfZqLX6I0Zk5lpu5/preview
+
+9. Password Cracker  [s9.html]
+    001. Function to generate passwords on the fly  ->  https://drive.google.com/file/d/19cpBabmbRYlhWygMfL17vEWZP6gJHA4G/preview
+    002. Function to verify hash  ->  https://drive.google.com/file/d/19f9B2gZrWVoV6nQdQsvtCzIXpuxhI6ik/preview
+    003. Working with wordlist  ->  https://drive.google.com/file/d/19khWaDEjhQMsrYsrXwHVRi1tODplvkBD/preview
+    004. Takeing input from the user  ->  https://drive.google.com/file/d/19sIbwjyZH7oX2c0OIehieBAmB9hjRaee/preview
+
+10. SSH cracker  [s10.html]
+    001. What is SSH  ->  https://drive.google.com/file/d/1-5B6wTK9aWYjTcOFehD2ExsR2ZwQEaPp/preview
+    002. Init SSH connection  ->  https://drive.google.com/file/d/1-BaKxfBFxduH-QkSF8Wa2K5c8Hjwj18r/preview
+    003. Error Handling  ->  https://drive.google.com/file/d/1-9e52vtwTsWs3nbZCduA30qxqCkF_iFn/preview
+    004. User input  ->  https://drive.google.com/file/d/1-NFXX1fba-dcC5QG5KTTpCC-93VDiMSd/preview
+    005. Testing our program  ->  https://drive.google.com/file/d/1-QFzgRfm31i-M8JxV7WqZZGXilzlBrAX/preview
+    006. Sarting our advanced SSH cracker  ->  https://drive.google.com/file/d/1-RAkcMUNHclaSQ3X-T7es41yTjoeuDKT/preview
+    007. Functions to generate passwords on the fly & extract passwords from the wordlist  ->  https://drive.google.com/file/d/1-VfbkRzgW8b_iyxhky54qcB2L2p2L5x6/preview
+    008. Working with user input  ->  https://drive.google.com/file/d/1-aiuABbxJ5YZ_VcvWIUUlXvVaxmVIsUJ/preview
+    009. Testing our program  ->  https://drive.google.com/file/d/1-cN2hPdI1zDnjEGUE2hnegR06ePLNmyb/preview
+    010. Fixing errors  ->  https://drive.google.com/file/d/1-8xNZl68zkczzCNYrKi0tyfZotDOwp7M/preview
+
+11. FTP cracker  [s11.html]
+    001. What is FTP  ->  https://drive.google.com/file/d/1-ihNdtfefPqSlJhSuA0MIDWWZU6P_Jz7/preview
+    002. Main function  ->  https://drive.google.com/file/d/1-f257tNoEfXbE2T5dCPFRGVRG-8HZNxX/preview
+    003. Working with wordlist  ->  https://drive.google.com/file/d/1-jI_P0ijVfmrg1JTqULsyAXLA0SBoTgi/preview
+    004. Testing our basik program  ->  https://drive.google.com/file/d/1-kLut6r-4xnRX13_IqYdjWY0MqUZkhRH/preview
+    005. Starting advanced program  ->  https://drive.google.com/file/d/1-kYd-DXr9Wc4amKJMn8mjunGoS0Yn8BC/preview
+    006. Working with user input  ->  https://drive.google.com/file/d/1-n9eWUlbuAOn5GLG7mPX0unBCQ8WYFc8/preview
+    007. Parse arguments  ->  https://drive.google.com/file/d/1-pSoYaX4X4rCm5Me2Wr_ZMnfDVNu2dkH/preview
+    008. Testing our program  ->  https://drive.google.com/file/d/1-vbcacgKmq2DVDLAvu9mrHm58QIVrbeM/preview
+
+12. Keylogger creation  [s12.html]
+    001. What is keylogger  ->  https://drive.google.com/file/d/10qwVqq9OeZtIO_TGX83JkOYxZ3SVjCOY/preview
+    002. Creation of basik keylogger  ->  https://drive.google.com/file/d/10pMZUdwsd53_f11FE9y5A4E16Cwj6Hl9/preview
+    003. Creation of more advanced keylogger  ->  https://drive.google.com/file/d/10v-4LztdE2k6OaZJwz71jFlIn0-DBLI7/preview
+
+13. Reverse Shell  [s13.html]
+    001. What is Reverse Shell  ->  https://drive.google.com/file/d/10hY2i-Br6Mr8KibDAUAnIFD17AQtEeiD/preview
+    002. Creating custom Listener  ->  https://drive.google.com/file/d/11BphmjrAXR4Yi7yRvVR9wvC1flb2hZd1/preview
+    003. Creating client side code  ->  https://drive.google.com/file/d/11HEpfFHjXe7M7sE2CsepRbwIo2bayphz/preview
+    004. Functions to send and recieve data  ->  https://drive.google.com/file/d/11KJVqLgSdm1avLS4FDUNyufqds4SzNJx/preview
+    005. cd upload and download commands  ->  https://drive.google.com/file/d/11PFpfQZRuY1CE5bWFwS7p3Uo9lvJj2cC/preview
+
+14. Information Stealer  [s14.html]
+    001. What is Info Stealer  ->  https://drive.google.com/file/d/11jp7ZQmXqhtNMU1nir3gABAzXL4Tnwo5/preview
+    002. Extracting decryption key  ->  https://drive.google.com/file/d/11fypQW1AvvM3VYGOiXMKxmQqCYAiDMuQ/preview
+    003. Extracting Credentials  ->  https://drive.google.com/file/d/11rwPukz3FT3gFvMuJh_CrncSsQjm9PpK/preview
+    004. Decrypting Extracted Passwords  ->  https://drive.google.com/file/d/122_IafgGnpQCJh0AIdTADN8YWlLIaLVn/preview
+    005. Extracting data from clipboard  ->  https://drive.google.com/file/d/127e5fBm7e7qO1jZyc3dUthsJr2rtYjG8/preview
+    006. Extracting System Info  ->  https://drive.google.com/file/d/129W8x2ODxGZVvKlttcNMI41YdRPiuCk3/preview
+    007. Testing our program  ->  https://drive.google.com/file/d/12CNvLpSoXQWJTCmeAX3SffhXTPyS6Mib/preview
+
+15. SSH Botnet  [s15.html]
+    001. What is Botnet  ->  https://drive.google.com/file/d/12WhpNYPmf-xMcPLNlyVOBEwHwZDJ43ZB/preview
+    002. First function for SSH Botnet  ->  https://drive.google.com/file/d/12ZG3OH5jMJOQrkCR7i6LJlQ7CyKmITcF/preview
+    003. Init Connection  ->  https://drive.google.com/file/d/12bicTSfb0JZB8ebJtVN7LyUgtEu8BTsb/preview
+    004. Testing and Fixing problems  ->  https://drive.google.com/file/d/12fKMY3bAk3wqPVOoS_AwNpGKauScAGin/preview
+    005. Commands execution on our bots  ->  https://drive.google.com/file/d/12fa1sa9x_wVPEXh7U0LdiQqTUUJyANYv/preview
+    006. Adding Function for DDOS  ->  https://drive.google.com/file/d/12hinnmptFEViAmKUwxhtM5zz0TLVA6r1/preview
+    007. Testing and problems solving  ->  https://drive.google.com/file/d/12pDgt5_p7vgdVNNFASOeAgYcwBoee5xF/preview
+
+16. Internet Worm  [s16.html]
+    001. What is Internet Worm  ->  https://drive.google.com/file/d/13ClZpXEiQHkiG101s0qTyF-qeWiGzSlI/preview
+    002. SSH exploit explanation  ->  https://drive.google.com/file/d/143v4xvil_zIQVSH6uNp9BsLuHFw8mhHf/preview
+    003. NFS exploit explanation  ->  https://drive.google.com/file/d/14F1iWkNZX-jZsvrezPYrcV3il_Cu9Gk6/preview
+    004. PsExec exploit explanation  ->  https://drive.google.com/file/d/14DrwsvuZelcXObmMH1sUCyys7vgFs-H5/preview
+    005. WMI exploit explanation  ->  https://drive.google.com/file/d/14HwzpJUgy-p_CRa15NXlI6oTj6rbuG3S/preview
+    006. RDP exploit explanation  ->  https://drive.google.com/file/d/14KUYkrGUxPyhE41tsabIAWVtnsGiiToM/preview
+    007. Payload creation  ->  https://drive.google.com/file/d/14XewQqzLkxRyFsicVwMoOq1NGTbGaejd/preview
+    008. Function to automatically scan network  ->  https://drive.google.com/file/d/14adrhBDn9q5U4lG6kCNUyoSPNJdVvlG4/preview
+    009. Creation of SSH exploit  ->  https://drive.google.com/file/d/14dlQfWwoEkc7AX9dqs-sshRAw08qYA6W/preview
+    010. Testing and Fixing problems  ->  https://drive.google.com/file/d/13KP0RhPhhmWWu5BFsKE4K85k9RAdaMSp/preview
+    011. Creating NFS PsExec WMI exploits  ->  https://drive.google.com/file/d/13WApbDlwOirJxU4Ttsduef9HYAYHf-a9/preview
+    012. Testing and Fixing network problems  ->  https://drive.google.com/file/d/13chAZ5JO5g5JcRMV_kx5gY-bGX-_83QT/preview
+    013. Creating RDP exploit  ->  https://drive.google.com/file/d/13espUudOumRmQvbJ7IzcBA8mJjKjkKx3/preview
+
+17. Traditional Botnet  [s17.html]
+    001. Explanation of basik botnet  ->  https://drive.google.com/file/d/14eTjz9ruCoqhIQT91ky7q6ERCHgCaWul/preview
+    002. Starting our basik botnet  ->  https://drive.google.com/file/d/15FUv0AU0EMOVesaYhQa99d_Awlb4wU6d/preview
+    003. Creating Center for our botnet  ->  https://drive.google.com/file/d/15FXI9suSr3sjltsy-e72mUv0ftX4b_Ur/preview
+    004. Finishing our basik botnet  ->  https://drive.google.com/file/d/15N7czXp1-yOWa-2vjE5IW_7cQYVV9GE6/preview
+    005. explanation of advanced botnet  ->  https://drive.google.com/file/d/15TTk_8pz0OulDvtN6D6f1YBMVlF2o31n/preview
+    006. ddos  ->  https://drive.google.com/file/d/15WuXy5SSSPeWnr50jrjFXznof_oVTUjd/preview
+    007. extracting passwords  ->  https://drive.google.com/file/d/15Xk78QxiS-y8nBkOtmh_P41iLDoKPrSc/preview
+    008. Secure Communication  ->  https://drive.google.com/file/d/15e8lfWsMvN5BcSC8dLR2zFht7HTtLG4b/preview
+    009. Main function  ->  https://drive.google.com/file/d/15sTxNtAaS1LRYxnO_PuQwJrnO2BDGDVB/preview
+    010. String obfuscation and advanced techniques on client side code  ->  https://drive.google.com/file/d/14rUIyLjQ_alCiM8yEAe-qtcTTgFnlETX/preview
+    011. Testing our Advanced Botnet  ->  https://drive.google.com/file/d/14vzRjtl7r2rO9W7fSdCL_tdDXq1t_7G5/preview
